@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(197, 255, 255);
+    text-align: center;
+}
+.h1{
+    text-align: center;
+    color: darkred;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.h3{
+    text-align: center;
+    color: black;
+    font-size: x-large;
+}
+.button{
+    background-color: red;
+    font-size: 30px;
+    border-radius: 8px;
+    width: 5000px;
+    padding: 14px 40px;
+    color: black;
+    font-style: bold;
+}
